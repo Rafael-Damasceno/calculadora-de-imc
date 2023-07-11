@@ -8,7 +8,6 @@ Projeto construído como exercício do curso da B7web
 
 ![Preview](./src/.github/Preview.png)
 
-[Clique aqui para acessar]()
 
 ## Tecnologias:
 
