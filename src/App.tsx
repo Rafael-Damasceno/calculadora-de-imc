@@ -67,7 +67,7 @@ function App() {
               {levels.map((item, key)=>(
                 <GridItem key={key} item={item}/>
               ))}
-            </div>''
+            </div>
           }
           {toShow &&
           <div className={styles.rightBig}>
