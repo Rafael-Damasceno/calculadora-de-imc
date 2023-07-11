@@ -8,7 +8,7 @@ Projeto construído como exercício do curso da B7web
 
 ![Preview](./src/.github/Preview.png)
 
-
+[Clique aqui para acessar](https://calculadora-de-imc-three.vercel.app)
 ## Tecnologias:
 
 - HTML
